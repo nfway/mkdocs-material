@@ -36,7 +36,7 @@ copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
 # Configuration
 theme:
-  name: material
+  name: null
   custom_dir: !ENV [THEME_DIR, "material"]
   language: zh
   logo: 'assets/logo.svg'
