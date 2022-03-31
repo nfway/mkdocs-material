@@ -36,14 +36,29 @@ copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
 # Configuration
 theme:
-  name: null
+  name: material
   custom_dir: !ENV [THEME_DIR, "material"]
   language: zh
   logo: 'assets/logo.svg'
   palette:
-    primary: green
-    accent: green
-
+    - scheme: default
+      primary: green
+      accent: light_green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
   # Static files
   static_templates:
     - 404.html
@@ -71,25 +86,7 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
+
 
 # Plugins
 plugins:
