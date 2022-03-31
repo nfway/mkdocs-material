@@ -38,13 +38,11 @@ copyright: Copyright &copy; 2016 - 2022 Martin Donath
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-  language: 'zh'
-  features:
-    - navigation.tabs
-  logo: 'images/logo.svg'
+  language: zh
+  logo: 'assets/logo.svg'
   palette:
-    primary: 'green'
-    accent: 'green'
+    primary: green
+    accent: green
 
   # Static files
   static_templates:
@@ -55,8 +53,8 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
   features:
+    - navigation.tabs
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
