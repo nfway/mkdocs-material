@@ -98,8 +98,5 @@
     "tiny-glob": "^0.2.9",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.3"
-  },
-  "engines": {
-    "node": ">= 16"
   }
 }
