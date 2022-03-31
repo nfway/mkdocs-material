@@ -38,7 +38,7 @@ copyright: Copyright &copy; 2016 - 2022 Martin Donath
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-    language: 'zh'
+  language: 'zh'
   features:
     - navigation.tabs
   logo: 'images/logo.svg'
