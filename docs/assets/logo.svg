@@ -1,8 +1,80 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
- <g>
-  <title>Layer 1</title>
-  <rect id="svg_1" height="622" width="837" y="-22" x="-4" stroke="#000" fill="#008000"/>
-  <text transform="matrix(4.05274 0 0 2.4348 -1164.29 -523.536)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="250" id="svg_6" y="431.17003" x="314.99012" stroke-width="0" fill="#ffffff">F</text>
- </g>
+<svg
+   width="600px"
+   height="533px"
+   viewBox="0 0 600 533"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28079"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="130.35277"
+     inkscape:cy="237.74183"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs28074" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect28129"
+       width="612.29242"
+       height="544.37476"
+       x="-0.37730843"
+       y="-2.7016134"
+       style="fill:#4cae4f;fill-opacity:1;stroke-width:0.961075" />
+    <text
+       xml:space="preserve"
+       style="font-size:687.965px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:3.58314"
+       x="-62.979156"
+       y="564.39447"
+       id="text7335"
+       transform="scale(1.1155059,0.89645425)"><tspan
+         id="tspan7333"
+         x="-62.979156"
+         y="564.39447"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;fill:#ffffff;stroke-width:3.58314">F</tspan></text>
+    <g
+       id="🔍-Product-Icons"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       transform="matrix(10.576483,0,0,10.496699,318.00725,244.49761)"
+       style="fill:#ffffff">
+      <g
+         id="ic_fluent_library_28_filled"
+         fill="#212121"
+         fill-rule="nonzero"
+         style="fill:#ffffff">
+        <path
+           d="m 5.9897,3 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.989 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 7,0 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.995 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 9.0804,3.5432 3.86,15.483 c 0.267,1.071 -0.386,2.157 -1.457,2.425 l -1.963,0.489 c -1.071,0.267 -2.157,-0.385 -2.424,-1.457 l -3.86,-15.483 c -0.268,-1.072 0.385,-2.157 1.456,-2.425 l 1.963,-0.489 c 1.071,-0.268 2.157,0.385 2.425,1.457 z"
+           id="🎨-Color"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
 </svg>
