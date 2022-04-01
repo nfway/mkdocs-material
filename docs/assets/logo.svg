@@ -3,8 +3,8 @@
 
 <svg
    width="600px"
-   height="533px"
-   viewBox="0 0 600 533"
+   height="600px"
+   viewBox="0 0 600 600"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="logo.svg"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview28079"
+     id="namedview829"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -24,8 +24,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.74029882"
-     inkscape:cx="130.35277"
-     inkscape:cy="237.74183"
+     inkscape:cx="396.46153"
+     inkscape:cy="345.8063"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -33,37 +33,25 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs28074" />
+     id="defs824" />
   <g
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       id="rect28129"
-       width="612.29242"
-       height="544.37476"
-       x="-0.37730843"
-       y="-2.7016134"
-       style="fill:#4cae4f;fill-opacity:1;stroke-width:0.961075" />
-    <text
-       xml:space="preserve"
-       style="font-size:687.965px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:3.58314"
-       x="-62.979156"
-       y="564.39447"
-       id="text7335"
-       transform="scale(1.1155059,0.89645425)"><tspan
-         id="tspan7333"
-         x="-62.979156"
-         y="564.39447"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;fill:#ffffff;stroke-width:3.58314">F</tspan></text>
+       style="fill:#4cae4f;fill-opacity:1;stroke-width:0.913732"
+       id="rect936"
+       width="640.28198"
+       height="631.20929"
+       x="-17.56048"
+       y="-12.54019" />
     <g
        id="🔍-Product-Icons"
        stroke="none"
        stroke-width="1"
        fill="none"
        fill-rule="evenodd"
-       transform="matrix(10.576483,0,0,10.496699,318.00725,244.49761)"
+       transform="matrix(10.910391,0,0,11.683643,294.42284,257.88039)"
        style="fill:#ffffff">
       <g
          id="ic_fluent_library_28_filled"
@@ -76,5 +64,16 @@
            style="fill:#ffffff" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:600px;line-height:1.25;font-family:sans-serif;fill:#ffffff"
+       x="-5.403224"
+       y="540.32239"
+       id="text3426"><tspan
+         sodipodi:role="line"
+         id="tspan3424"
+         x="-5.403224"
+         y="540.32239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:600px;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;fill:#ffffff">F</tspan></text>
   </g>
 </svg>
