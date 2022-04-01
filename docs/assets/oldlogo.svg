@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.0469406"
-     inkscape:cx="396.87064"
-     inkscape:cy="237.83584"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="396.46153"
+     inkscape:cy="345.8063"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -39,31 +39,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none"
-       id="rect1310"
-       width="602.7085"
-       height="603.66364"
-       x="0"
-       y="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:735.967px;line-height:1.25;font-family:sans-serif;stroke-width:3.83317;fill:#ffffff"
-       x="-20.652296"
-       y="517.49316"
-       id="text8640"
-       transform="scale(0.87901947,1.1376312)"><tspan
-         sodipodi:role="line"
-         id="tspan8638"
-         x="-20.652296"
-         y="517.49316"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;stroke-width:3.83317;fill:#ffffff">F</tspan></text>
+       style="fill:#4cae4f;fill-opacity:1;stroke-width:0.913732"
+       id="rect936"
+       width="640.28198"
+       height="631.20929"
+       x="-17.56048"
+       y="-12.54019" />
     <g
        id="🔍-Product-Icons"
        stroke="none"
        stroke-width="1"
        fill="none"
        fill-rule="evenodd"
-       transform="matrix(10.237428,0,0,12.288298,309.4721,280.71151)"
+       transform="matrix(10.910391,0,0,11.683643,294.42284,257.88039)"
        style="fill:#ffffff">
       <g
          id="ic_fluent_library_28_filled"
@@ -76,5 +64,16 @@
            style="fill:#ffffff" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:600px;line-height:1.25;font-family:sans-serif;fill:#ffffff"
+       x="-5.403224"
+       y="540.32239"
+       id="text3426"><tspan
+         sodipodi:role="line"
+         id="tspan3424"
+         x="-5.403224"
+         y="540.32239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:600px;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;fill:#ffffff">F</tspan></text>
   </g>
 </svg>
