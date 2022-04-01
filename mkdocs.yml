@@ -76,7 +76,7 @@ theme:
     - navigation.indexes
     # - navigation.instant
     - navigation.sections
-    - navigation.tabs
+    - navigation.tabs.sticky
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -89,7 +89,8 @@ theme:
 
 # Plugins
 plugins:
-  - search  
+  - search 
+  - git-revision-date  
 
 # Customization
 extra:
