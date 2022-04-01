@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="500px"
-   height="500px"
-   viewBox="0 0 500 500"
+   viewBox="0 0 89 89"
    version="1.1"
-   id="SVGRoot"
+   id="svg9096"
    sodipodi:docname="logo.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9100" />
   <sodipodi:namedview
-     id="namedview10"
+     id="namedview9098"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -22,50 +20,54 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.662"
-     inkscape:cx="250"
-     inkscape:cy="217.80987"
+     inkscape:zoom="6.6023116"
+     inkscape:cx="44.454127"
+     inkscape:cy="44.378396"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="SVGRoot" />
-  <defs
-     id="defs18703" />
+     inkscape:current-layer="svg9096" />
+  <rect
+     style="fill:#f9f9f9"
+     id="rect9581"
+     width="42.560852"
+     height="15.297672"
+     x="4.8467875"
+     y="12.419892"
+     ry="0" />
+  <rect
+     style="fill:#f9f9f9"
+     id="rect9627"
+     width="16.812294"
+     height="51.951504"
+     x="4.8467875"
+     y="27.717564" />
+  <rect
+     style="fill:#f9f9f9"
+     id="rect9629"
+     width="24.991247"
+     height="16.054983"
+     x="21.507618"
+     y="46.044479" />
   <g
-     id="layer1"
-     transform="matrix(0.96153142,0,0,0.948772,19.117608,25.38326)"
+     id="🔍-Product-Icons"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(1.6255606,0,0,1.6678099,45.792394,39.583157)"
      style="fill:#f9f9f9">
-    <text
-       xml:space="preserve"
-       style="font-size:627.492px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;stroke-width:2.84375"
-       x="-37.714535"
-       y="437.67282"
-       id="text8640"
-       transform="scale(0.88330279,1.1321146)"><tspan
-         id="tspan8638"
-         x="-37.714535"
-         y="437.67282"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:627.492px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f9f9f9;stroke-width:2.84375">F</tspan></text>
     <g
-       id="🔍-Product-Icons"
-       stroke="none"
-       stroke-width="1"
-       fill="none"
-       fill-rule="evenodd"
-       transform="matrix(9.9248635,0,0,12.117816,239.02112,191.76795)"
+       id="ic_fluent_library_28_filled"
+       fill="#212121"
+       fill-rule="nonzero"
        style="fill:#f9f9f9">
-      <g
-         id="ic_fluent_library_28_filled"
-         fill="#212121"
-         fill-rule="nonzero"
-         style="fill:#f9f9f9">
-        <path
-           d="m 5.9897,3 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.989 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 7,0 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.995 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 9.0804,3.5432 3.86,15.483 c 0.267,1.071 -0.386,2.157 -1.457,2.425 l -1.963,0.489 c -1.071,0.267 -2.157,-0.385 -2.424,-1.457 l -3.86,-15.483 c -0.268,-1.072 0.385,-2.157 1.456,-2.425 l 1.963,-0.489 c 1.071,-0.268 2.157,0.385 2.425,1.457 z"
-           id="🎨-Color"
-           style="fill:#f9f9f9" />
-      </g>
+      <path
+         d="m 5.9897,3 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.989 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 7,0 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.995 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 9.0804,3.5432 3.86,15.483 c 0.267,1.071 -0.386,2.157 -1.457,2.425 l -1.963,0.489 c -1.071,0.267 -2.157,-0.385 -2.424,-1.457 l -3.86,-15.483 c -0.268,-1.072 0.385,-2.157 1.456,-2.425 l 1.963,-0.489 c 1.071,-0.268 2.157,0.385 2.425,1.457 z"
+         id="🎨-Color"
+         style="fill:#f9f9f9" />
     </g>
   </g>
 </svg>
