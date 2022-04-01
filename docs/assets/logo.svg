@@ -14,30 +14,29 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview18708"
+     id="namedview10"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.74029882"
-     inkscape:cx="396.46153"
-     inkscape:cy="129.67736"
+     inkscape:zoom="1.662"
+     inkscape:cx="250"
+     inkscape:cy="217.80987"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="SVGRoot" />
   <defs
      id="defs18703" />
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="matrix(0.96153142,0,0,0.948772,19.117608,25.38326)"
+     style="fill:#f9f9f9">
     <text
        xml:space="preserve"
        style="font-size:627.492px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;stroke-width:2.84375"
@@ -45,11 +44,10 @@
        y="437.67282"
        id="text8640"
        transform="scale(0.88330279,1.1321146)"><tspan
-         sodipodi:role="line"
          id="tspan8638"
          x="-37.714535"
          y="437.67282"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:627.492px;font-family:Helvetica-Black-SemiBold;-inkscape-font-specification:Helvetica-Black-SemiBold;fill:#f9f9f9;stroke-width:2.84375">F</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:627.492px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f9f9f9;stroke-width:2.84375">F</tspan></text>
     <g
        id="🔍-Product-Icons"
        stroke="none"
