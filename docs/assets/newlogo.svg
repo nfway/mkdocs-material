@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="650px"
+   height="500px"
+   viewBox="0 0 650 500"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="newlogo.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview911"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.0469406"
+     inkscape:cx="396.87064"
+     inkscape:cy="237.83584"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs906" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;stroke-width:6.59952"
+       id="rect9581"
+       width="296.90204"
+       height="95.509308"
+       x="41.246162"
+       y="51.535496"
+       ry="0" />
+    <rect
+       style="fill:#f9f9f9;stroke-width:6.52107"
+       id="rect9627"
+       width="117.28158"
+       height="316.68918"
+       x="41.246162"
+       y="154.51549" />
+    <rect
+       style="fill:#f9f9f9;stroke-width:6.44998"
+       id="rect9629"
+       width="166.52759"
+       height="100.23749"
+       x="165.28099"
+       y="261.46683" />
+    <g
+       id="🔍-Product-Icons"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       transform="matrix(11.339815,0,0,10.412785,326.88027,221.12633)"
+       style="fill:#f9f9f9">
+      <g
+         id="ic_fluent_library_28_filled"
+         fill="#212121"
+         fill-rule="nonzero"
+         style="fill:#f9f9f9">
+        <path
+           d="m 5.9897,3 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.989 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 7,0 c 1.104,0 2,0.896 2,2 v 18 c 0,1.104 -0.896,2 -2,2 h -1.995 c -1.105,0 -2,-0.896 -2,-2 V 5 c 0,-1.104 0.895,-2 2,-2 z m 9.0804,3.5432 3.86,15.483 c 0.267,1.071 -0.386,2.157 -1.457,2.425 l -1.963,0.489 c -1.071,0.267 -2.157,-0.385 -2.424,-1.457 l -3.86,-15.483 c -0.268,-1.072 0.385,-2.157 1.456,-2.425 l 1.963,-0.489 c 1.071,-0.268 2.157,0.385 2.425,1.457 z"
+           id="🎨-Color"
+           style="fill:#f9f9f9" />
+      </g>
+    </g>
+  </g>
+</svg>
