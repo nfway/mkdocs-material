@@ -90,8 +90,8 @@ theme:
 # Plugins
 plugins:
   - search 
-  - git-revision-date:
-      enabled_if_env: CI
+#  - git-revision-date:
+#      enabled_if_env: CI
 #  - git-revision-date-localized:
 #      type: iso_date
 #      timezone: Asia/Hongkong
