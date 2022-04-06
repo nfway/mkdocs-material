@@ -19,12 +19,11 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 公益基金会管理资料库
+site_name: 主题文档
 site_url: https://domat.vercel.app/
 site_author: Zhu Yuanzhi
 site_description: >-
-  公益基金会管理资料库是一个开源的，基于管理学鼻祖彼得德鲁克的理论框架进行收集的关于公益基金会管理方面的资料库，同样也适用于非营利组织。资料库囊括愿景、使命的确立，战略规划的制定、人力资源决策、自我发展、基金会营销、项目实践操作和公益创投等。
-
+  文档库
 # Repository
 #repo_name: squidfunk/mkdocs-material
 #repo_url: https://github.com/squidfunk/mkdocs-material
