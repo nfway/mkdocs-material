@@ -168,18 +168,14 @@ nav:
     - Changelog:
       - changelog/index.md
       - How to upgrade: upgrade.md
-  - 基金会管理:
-    - 使用说明:
-    - commo/index.md
-    - 愿景使命:
-    - 改变颜色: setup/changing-the-colors.md
+  - Setup:
+    - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
     - Changing the language: setup/changing-the-language.md
     - Changing the logo and icons: setup/changing-the-logo-and-icons.md
     - Ensuring data privacy: setup/ensuring-data-privacy.md
     - Setting up navigation: setup/setting-up-navigation.md
     - Setting up site search: setup/setting-up-site-search.md
-    - 战略规划:
     - Setting up site analytics: setup/setting-up-site-analytics.md
     - Setting up social cards: setup/setting-up-social-cards.md
     - Setting up tags: setup/setting-up-tags.md
@@ -189,11 +185,11 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
     - Building for offline usage: setup/building-for-offline-usage.md
-    - 绩效管理:
+    - Extensions:
       - setup/extensions/index.md
       - Python Markdown: setup/extensions/python-markdown.md
       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-  - 传播:
+  - Reference:
     - reference/index.md
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
@@ -210,7 +206,7 @@ nav:
     - Images: reference/images.md
     - Lists: reference/lists.md
     - MathJax: reference/mathjax.md
-  - 实践:
+  - Insiders:
     - insiders/index.md
     - Getting started:
       - Installation: insiders/getting-started.md
