@@ -72,7 +72,7 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     # - navigation.instant
     - navigation.sections
@@ -190,7 +190,7 @@ nav:
     - 自我发展:
         - Building for offline usage: setup/building-for-offline-usage.md
     - 专题:
-      - 营销传播: setup/extensions/index.md
+      - 营销传播: setup/extensions/
       - Python Markdown: setup/extensions/python-markdown.md
       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - Reference:
